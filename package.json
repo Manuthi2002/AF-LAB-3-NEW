@@ -1,0 +1,20 @@
+{
+  "name": "af-lab-3-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuthi2002/AF-LAB-3-NEW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuthi2002/AF-LAB-3-NEW/issues"
+  },
+  "homepage": "https://github.com/Manuthi2002/AF-LAB-3-NEW#readme"
+}
